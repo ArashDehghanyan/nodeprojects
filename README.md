@@ -1,2 +1,2 @@
 # nodeprojects
-This is my node practices
+This is my node.js practices
